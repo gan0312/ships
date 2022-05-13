@@ -15,7 +15,7 @@ import time
 # Github Action
 enable_gh_action = False  # 启用GitHub Action
 # Bark Push
-enable_bark = False  # 启用Bark推送
+enable_bark = True  # 启用Bark推送
 bark_token = "https://api.day.app/KtWCXS4WJ5o5i8kkVreuzN/这里改成你自己的推送内容"  # Bark推送ID
 # Serverchan Push
 enable_serverchan = False  # 启用Server酱(Turbo)推送
